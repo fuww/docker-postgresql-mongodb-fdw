@@ -1,0 +1,1 @@
+# postgresql + mongo_fdw
